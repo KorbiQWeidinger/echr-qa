@@ -1,9 +1,9 @@
-# ECHR-QA Benchmark
+# AQuAECHR Benchmark
 
-This repository contains the code needed to evaluate model performance on ECHR-QA.
+This repository contains the code needed to evaluate model performance on AQuAECHR.
 It also contains the code needed to reproduce our conducted experiments.
 
-The ECHR-QA dataset can be found under `data/echr_qa_dataset.csv`.
+The AQuAECHR dataset can be found under `data/echr_qa_dataset.csv`.
 The results of all our experiments can be found in the `data` folder.
 
 ## Setup Instructions
